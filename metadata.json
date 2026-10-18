@@ -1,0 +1,6 @@
+{
+  "name": "BCB Shoes - Vendas de Ténis por Encomenda",
+  "description": "Loja exclusiva de ténis e sneakers de luxo por encomenda em Angola. Coleções selecionadas, confirmação de pedidos e entregas seguras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
